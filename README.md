@@ -25,3 +25,8 @@ adalah library python untuk nlp
 - Stopwords: untuk menghapus kata-kata umum yang tidak relevan seperti: dan, di, dll
 #### Inisialisasi dan Informasi
 Tahap ini untuk memberikan informasi tentang output yang di harapkan
+
+
+
+### Contoh Output
+![output](https://github.com/user-attachments/assets/739e9795-1622-4266-8482-5ba2309f9c85)
